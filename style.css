@@ -29,22 +29,6 @@ body {
     margin-bottom: 60px;
 }
 
-.profile img {
-    width: 200px;
-    height: 200px;
-    object-fit: contain;
-    border: 3px solid white;
-    border-radius: 50%;
-}
-
-
-hr {
-    width: 90%;
-    border: none;
-    border-top: 2px solid white;
-    margin: 20px auto;
-}
-
 
 h1 {
     font-family: "Streamline Modern", serif;
